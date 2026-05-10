@@ -73,7 +73,8 @@ export const FILE_CONTENTS: Record<string, React.ReactNode> = {
         <span className="text-primary/50">India</span>
       </div>
       <div className="text-primary/70 text-xs leading-relaxed max-w-xl">
-        <p>AI Researcher &amp; Developer · Owner of <span className="text-primary font-bold">MCP-India-Stack</span> · 17-year-old student building at the intersection of AI, trading, and software.</p>
+        <p>AI Researcher &amp; Developer · Owner of <span className="text-primary font-bold">MCP-India-Stack</span> · 17-year-old student.</p>
+        <p className="text-primary/70">Currently serving as <span className="text-primary font-bold">Community Coordinator at YOTTA</span> and <span className="text-primary font-bold">Club President at Unison Community</span>, building at the intersection of AI, trading, and startup culture.</p>
       </div>
       <div className="border border-primary/20 bg-primary/5 p-4 space-y-2">
         <div className="text-primary/40 text-[10px] tracking-widest mb-3">QUICK_NAV — click files in the navigator →</div>

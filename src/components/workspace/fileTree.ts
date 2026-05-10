@@ -68,4 +68,4 @@ export const FILE_TREE: FileNode[] = [
   },
 ];
 
-export const DEFAULT_FILE = 'mcp-india-stack';
+export const DEFAULT_FILE = 'readme';
