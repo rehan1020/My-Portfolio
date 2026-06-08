@@ -125,23 +125,35 @@ export function BentoLayout() {
             <h3 className="text-xl font-bold flex items-center gap-2"><Code2 className="w-5 h-5 text-primary" /> Stack</h3>
             <ArrowUpRight className="w-5 h-5 text-muted-foreground group-hover:text-primary transition-colors" />
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 flex-1">
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-y-5 gap-x-4 flex-1">
             <div>
               <div className="text-xs text-muted-foreground mb-1.5 uppercase tracking-wider">Languages</div>
               <div className="flex flex-wrap gap-1.5">
-                {skills.languages.map(s => <span key={s} className="text-xs bg-secondary px-2 py-1 rounded">{s}</span>)}
+                {skills.languages.map(s => <span key={s} className="text-[10px] bg-secondary px-1.5 py-0.5 rounded">{s}</span>)}
               </div>
             </div>
             <div>
               <div className="text-xs text-muted-foreground mb-1.5 uppercase tracking-wider">AI / ML</div>
               <div className="flex flex-wrap gap-1.5">
-                {skills.ai_ml.slice(0,4).map(s => <span key={s} className="text-[10px] bg-secondary px-1.5 py-0.5 rounded">{s}</span>)}
+                {skills.ai_ml.slice(0,3).map(s => <span key={s} className="text-[10px] bg-secondary px-1.5 py-0.5 rounded">{s}</span>)}
               </div>
             </div>
             <div>
               <div className="text-xs text-muted-foreground mb-1.5 uppercase tracking-wider">Web</div>
               <div className="flex flex-wrap gap-1.5">
-                {skills.web.map(s => <span key={s} className="text-xs bg-secondary px-2 py-1 rounded">{s}</span>)}
+                {skills.web.slice(0,3).map(s => <span key={s} className="text-[10px] bg-secondary px-1.5 py-0.5 rounded">{s}</span>)}
+              </div>
+            </div>
+            <div>
+              <div className="text-xs text-muted-foreground mb-1.5 uppercase tracking-wider">Trading</div>
+              <div className="flex flex-wrap gap-1.5">
+                {skills.trading.slice(0,3).map(s => <span key={s} className="text-[10px] bg-secondary px-1.5 py-0.5 rounded">{s}</span>)}
+              </div>
+            </div>
+            <div className="col-span-2 sm:col-span-1">
+              <div className="text-xs text-muted-foreground mb-1.5 uppercase tracking-wider">Soft Skills</div>
+              <div className="flex flex-wrap gap-1.5">
+                {skills.soft_skills.slice(0,3).map(s => <span key={s} className="text-[10px] bg-secondary px-1.5 py-0.5 rounded">{s}</span>)}
               </div>
             </div>
           </div>
