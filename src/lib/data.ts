@@ -58,6 +58,14 @@ export const PORTFOLIO_DATA = {
       desc: "Organizing and hosting a major Build-a-thon for the community.",
     },
     {
+      title: "Tech Team Leader",
+      company: "YOTTA",
+      type: "",
+      period: "Jun 2026 – Present",
+      location: "",
+      desc: "Leading the tech team at YOTTA.",
+    },
+    {
       title: "Co-Initiator & Organizing Secretary",
       company: "YOTTA",
       type: "",
