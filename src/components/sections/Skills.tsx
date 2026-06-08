@@ -2,13 +2,17 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const SKILLS = [
-  { name: 'Team Collaboration',   level: 95, category: 'SOFT' },
-  { name: 'Start-up Ventures',    level: 90, category: 'BUSINESS' },
-  { name: 'App Development',      level: 85, category: 'TECH' },
-  { name: 'Social Media Mgmt',    level: 85, category: 'SOFT' },
-  { name: 'AI Research',          level: 80, category: 'TECH' },
-  { name: 'Futures Trading',      level: 75, category: 'FINANCE' },
-  { name: 'Prompt Engineering',   level: 70, category: 'TECH' },
+  { name: 'Communication',        level: 95, category: 'SOFT' },
+  { name: 'Leadership',           level: 90, category: 'SOFT' },
+  { name: 'Problem Solving',      level: 95, category: 'TECH' },
+  { name: 'Project Management',   level: 85, category: 'BUSINESS' },
+  { name: 'Algorithmic Trading',  level: 85, category: 'FINANCE' },
+  { name: 'Entrepreneurship',     level: 90, category: 'BUSINESS' },
+  { name: 'Community Building',   level: 85, category: 'SOFT' },
+  { name: 'Strategic Planning',   level: 85, category: 'BUSINESS' },
+  { name: 'Event Organization',   level: 80, category: 'SOFT' },
+  { name: 'Agile Methodologies',  level: 80, category: 'BUSINESS' },
+  { name: 'Public Speaking',      level: 85, category: 'SOFT' },
 ];
 
 const CATEGORY_COLORS: Record<string, string> = {
@@ -88,7 +92,7 @@ export function Skills() {
                   </motion.div>
                 ))}
                 <div className="text-primary/30 text-xs mt-4 pt-3 border-t border-primary/10">
-                  SCAN COMPLETE — 7 modules loaded
+                  SCAN COMPLETE — 11 modules loaded
                 </div>
               </div>
             </div>
