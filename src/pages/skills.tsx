@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { PORTFOLIO_DATA } from '@/lib/data';
-import { Code2, Cpu, Globe, TrendingUp } from 'lucide-react';
+import { Code2, Cpu, Globe, TrendingUp, Users, Briefcase } from 'lucide-react';
 
 export default function Skills() {
   const { skills } = PORTFOLIO_DATA;
@@ -20,6 +20,8 @@ export default function Skills() {
     { title: "AI & Machine Learning", data: skills.ai_ml, icon: <Cpu className="w-6 h-6 text-primary" /> },
     { title: "Web Technologies", data: skills.web, icon: <Globe className="w-6 h-6 text-primary" /> },
     { title: "Trading & Finance", data: skills.trading, icon: <TrendingUp className="w-6 h-6 text-primary" /> },
+    { title: "Management & Strategy", data: skills.management, icon: <Briefcase className="w-6 h-6 text-primary" /> },
+    { title: "Soft Skills & Community", data: skills.soft_skills, icon: <Users className="w-6 h-6 text-primary" /> },
   ];
 
   return (
