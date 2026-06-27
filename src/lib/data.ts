@@ -53,7 +53,7 @@ export const PORTFOLIO_DATA = {
       title: "Build-a-thon Host",
       company: "Unison Community",
       type: "Event",
-      period: "May 2026 – Jun 2026",
+      period: "May 2026 – June 2026",
       location: "",
       desc: "Organizing and hosting a major Build-a-thon for the community.",
     },
