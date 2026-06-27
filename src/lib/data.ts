@@ -2,7 +2,7 @@ export const PORTFOLIO_DATA = {
   profile: {
     name: "Rehan Shashi",
     title: "AI Researcher & Developer",
-    status: "HOSTING UNISON BUILD-A-THON",
+    status: "ACTIVE & BUILDING",
     location: "India",
     age: "17",
     grade: "12th — PCM + AI",
@@ -53,7 +53,7 @@ export const PORTFOLIO_DATA = {
       title: "Build-a-thon Host",
       company: "Unison Community",
       type: "Event",
-      period: "May 2026 – Present",
+      period: "May 2026 – Jun 2026",
       location: "",
       desc: "Organizing and hosting a major Build-a-thon for the community.",
     },
