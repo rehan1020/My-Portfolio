@@ -233,6 +233,7 @@ export const PORTFOLIO_DATA = {
     {
       category: "Forage Job Simulations",
       items: [
+        { title: "Y Combinator — Software Engineer at a Start Up", date: "Jun 2026", details: "Fullstack, Frontend, Backend, Analytics" },
         { title: "Commonwealth Bank", date: "May 2026", details: "Written Communication, Communications Planning, Data Analysis", link: "https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/fJYLPoeu5zJ6PCgaM_2sNmYuurxgpFYawco_6991911777f6324da6a8228f_1779605415348_completion_certificate.pdf" },
         { title: "Deloitte Australia — Cyber", date: "Mar 2026", details: "Data Analysis", link: "https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6991911777f6324da6a8228f_1773478392420_completion_certificate.pdf" },
         { title: "Deloitte Australia — Technology", date: "Mar 2026", details: "Data Analysis, Python", link: "https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_6991911777f6324da6a8228f_1773476730542_completion_certificate.pdf" },
