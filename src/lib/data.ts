@@ -185,7 +185,7 @@ export const PORTFOLIO_DATA = {
     languages: ["Python"],
     ai_ml: ["Ollama", "OpenRouter", "LangChain", "HuggingFace"],
     web: ["React", "Vite", "Node.js", "Tailwind"],
-    trading: ["Futures", "Bitget API", "Algorithmic Trading", "WebSocket"],
+    trading: ["Futures", "Bitget API", "Algorithmic Trading", "WebSocket", "Intraday Trading"],
     management: ["Leadership", "Project Management", "Strategic Planning", "Event Organization", "Entrepreneurship"],
     soft_skills: ["Communication", "Community Building", "Public Speaking", "Problem Solving", "Agile Methodologies"],
   },
