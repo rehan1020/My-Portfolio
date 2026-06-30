@@ -116,7 +116,7 @@ export function SplitGlassLayout() {
                 <ArrowUpRight className="w-5 h-5 text-muted-foreground group-hover:text-primary transition-colors" />
               </div>
               <div className="space-y-6">
-                {experience.slice(0, 3).map((exp, i) => (
+                {experience.slice(0, 4).map((exp, i) => (
                   <div key={i} className="flex gap-4 items-start group/item">
                     <div className="w-12 h-12 rounded-xl glass-panel flex items-center justify-center shrink-0 group-hover/item:border-primary/50 transition-colors">
                       <TerminalSquare className="w-5 h-5 text-muted-foreground group-hover/item:text-primary transition-colors" />

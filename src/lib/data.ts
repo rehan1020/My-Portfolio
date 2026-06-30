@@ -50,6 +50,14 @@ export const PORTFOLIO_DATA = {
       desc: "Organizing initiatives as the Co-Initiator & Organizing Secretary.",
     },
     {
+      title: "Owner / Founder",
+      company: "MCP-India-Stack",
+      type: "",
+      period: "Mar 2026 – Present",
+      location: "India (Remote)",
+      desc: "Leading technical strategy, architecture, and overall vision for the MCP-India-Stack ecosystem. Built and published to PyPI. 19★ on GitHub.",
+    },
+    {
       title: "Club President (Tech Club)",
       company: "Unison Community",
       type: "Internship",
@@ -81,14 +89,7 @@ export const PORTFOLIO_DATA = {
       location: "",
       desc: "Community Building, Community Networking, and related skills.",
     },
-    {
-      title: "Owner / Founder",
-      company: "MCP-India-Stack",
-      type: "",
-      period: "Mar 2026 – Present",
-      location: "India (Remote)",
-      desc: "Leading technical strategy, architecture, and overall vision for the MCP-India-Stack ecosystem. Built and published to PyPI. 19★ on GitHub.",
-    },
+
     {
       title: "Co-Founder",
       company: "Redarted",
