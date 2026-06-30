@@ -34,6 +34,14 @@ export const PORTFOLIO_DATA = {
       desc: "Serving as Community Admin for Unison Community.",
     },
     {
+      title: "Tech Team Leader",
+      company: "YOTTA",
+      type: "",
+      period: "Jun 2026 – Present",
+      location: "",
+      desc: "Leading the tech team at YOTTA.",
+    },
+    {
       title: "Club President (Tech Club)",
       company: "Unison Community",
       type: "Internship",
@@ -56,14 +64,6 @@ export const PORTFOLIO_DATA = {
       period: "May 2026 – June 2026",
       location: "",
       desc: "Organizing and hosting a major Build-a-thon for the community.",
-    },
-    {
-      title: "Tech Team Leader",
-      company: "YOTTA",
-      type: "",
-      period: "Jun 2026 – Present",
-      location: "",
-      desc: "Leading the tech team at YOTTA.",
     },
     {
       title: "Co-Initiator & Organizing Secretary",
