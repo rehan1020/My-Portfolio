@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BentoLayout } from '@/components/layout/BentoLayout';
+import { SplitGlassLayout } from '@/components/layout/SplitGlassLayout';
 import { BootSequence } from '@/components/sections/BootSequence';
 
 export default function Home() {
@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       {!booted && <BootSequence onComplete={handleBootComplete} />}
-      {booted && <BentoLayout />}
+      {booted && <SplitGlassLayout />}
     </>
   );
 }
