@@ -248,6 +248,7 @@ export const PORTFOLIO_DATA = {
     {
       category: "Hackathons",
       items: [
+        { title: "USAII® Global AI Hackathon", date: "Jun 2026", details: "Finalist, Undergraduate Level. ID: 193707048" },
         { title: "CodeStorm Hackathon 2026", date: "Jun 2026", details: "AI-driven hackathon by Tech4Hack", link: "https://verification.givemycertificate.com/v/858121db-c166-4aae-8ca3-e22a190937a7" },
         { title: "Meta PyTorch OpenEnv Hackathon x Scaler", date: "Apr 2026", details: "Round 1 Qualified" }
       ]
