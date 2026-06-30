@@ -42,6 +42,14 @@ export const PORTFOLIO_DATA = {
       desc: "Leading the tech team at YOTTA.",
     },
     {
+      title: "Co-Initiator & Organizing Secretary",
+      company: "YOTTA",
+      type: "",
+      period: "May 2026 – Present",
+      location: "",
+      desc: "Organizing initiatives as the Co-Initiator & Organizing Secretary.",
+    },
+    {
       title: "Club President (Tech Club)",
       company: "Unison Community",
       type: "Internship",
@@ -64,14 +72,6 @@ export const PORTFOLIO_DATA = {
       period: "May 2026 – June 2026",
       location: "",
       desc: "Organizing and hosting a major Build-a-thon for the community.",
-    },
-    {
-      title: "Co-Initiator & Organizing Secretary",
-      company: "YOTTA",
-      type: "",
-      period: "May 2026 – Present",
-      location: "",
-      desc: "Organizing initiatives as the Co-Initiator & Organizing Secretary.",
     },
     {
       title: "Community Coordinator",
