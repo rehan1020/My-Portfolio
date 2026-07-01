@@ -28,7 +28,7 @@ export const PORTFOLIO_DATA = {
     {
       title: "Community Admin",
       company: "Unison Community",
-      type: "",
+      type: "Internship",
       period: "Jun 2026 – Present",
       location: "Remote",
       desc: "Serving as Community Admin for Unison Community.",
@@ -68,7 +68,7 @@ export const PORTFOLIO_DATA = {
     {
       title: "Club President (Commerce Club)",
       company: "Unison Community",
-      type: "",
+      type: "Internship",
       period: "May 2026 – Present",
       location: "Remote",
       desc: "Leading the Commerce Club.",
