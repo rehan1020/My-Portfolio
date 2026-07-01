@@ -6,7 +6,7 @@ export const PORTFOLIO_DATA = {
     location: "India",
     age: "17",
     grade: "12th — PCM + AI",
-    bio: "I’m Rehan Shashi, and I wear a few different hats: high school student (PCM), AI Researchist, Ex startup co-founder, community leader and Community Co-Initiator & Organizing Secretary. My world revolves around the intersection of emerging tech, community building, and financial markets. When I’m not studying, you’ll find me leading the charge as Club President at Unison Community or organizing initiatives as the Co-Initiator & Organizing Secretary at YOTTA. On the technical side, I run MCP-India-Stack, dive deep into prompt engineering, and build real-world tools—like configuring environment architectures for automated crypto trading bots.",
+    bio: "I’m Rehan Shashi, an AI Researcher, ex-startup founder, and community leader currently navigating high school (PCM). My world revolves around the intersection of emerging tech and financial markets. Whether I'm leading the Unison Community Tech Club, driving initiatives as Organizing Secretary at YOTTA, or building out the MCP-India-Stack ecosystem, I thrive on turning ambitious ideas into reality. On the technical side, I specialize in prompt engineering and architecting automated environments for crypto trading bots.",
     currentRoles: "I’m also an intermediate trader who loves decoding the crypto markets. Through my participation in the Young Innovator Internship Challenge 6.0 and my experience hosting events and managing social media, I've learned how to turn ambitious ideas into reality. I am always looking for the next problem to solve, the next community to empower, and the next technology to master.",
     interests: [
       "AI Research & Model Building",
