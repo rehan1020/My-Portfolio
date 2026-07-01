@@ -30,7 +30,7 @@ export const PORTFOLIO_DATA = {
       company: "Unison Community",
       type: "",
       period: "Jun 2026 – Present",
-      location: "",
+      location: "Remote",
       desc: "Serving as Community Admin for Unison Community.",
     },
     {
@@ -38,7 +38,7 @@ export const PORTFOLIO_DATA = {
       company: "YOTTA",
       type: "",
       period: "Jun 2026 – Present",
-      location: "",
+      location: "Remote",
       desc: "Leading the tech team at YOTTA.",
     },
     {
@@ -46,7 +46,7 @@ export const PORTFOLIO_DATA = {
       company: "YOTTA",
       type: "",
       period: "May 2026 – Present",
-      location: "",
+      location: "Remote",
       desc: "Organizing initiatives as the Co-Initiator & Organizing Secretary.",
     },
     {
@@ -55,7 +55,7 @@ export const PORTFOLIO_DATA = {
       type: "",
       period: "Mar 2026 – Present",
       location: "India (Remote)",
-      desc: "Leading technical strategy, architecture, and overall vision for the MCP-India-Stack ecosystem. Built and published to PyPI. 19★ on GitHub.",
+      desc: "Leading technical strategy, architecture, and overall vision for the MCP-India-Stack ecosystem. Built and published to PyPI. 31★ on GitHub.",
     },
     {
       title: "Club President (Tech Club)",
@@ -70,7 +70,7 @@ export const PORTFOLIO_DATA = {
       company: "Unison Community",
       type: "",
       period: "May 2026 – Present",
-      location: "",
+      location: "Remote",
       desc: "Leading the Commerce Club.",
     },
     {
@@ -78,7 +78,7 @@ export const PORTFOLIO_DATA = {
       company: "Unison Community",
       type: "Event",
       period: "May 2026 – June 2026",
-      location: "",
+      location: "Remote",
       desc: "Organizing and hosting a major Build-a-thon for the community.",
     },
     {
@@ -86,7 +86,7 @@ export const PORTFOLIO_DATA = {
       company: "YOTTA",
       type: "",
       period: "May 2026 – May 2026",
-      location: "",
+      location: "Remote",
       desc: "Community Building, Community Networking, and related skills.",
     },
 
@@ -95,7 +95,7 @@ export const PORTFOLIO_DATA = {
       company: "Redarted",
       type: "",
       period: "Oct 2025 – Dec 2025",
-      location: "India",
+      location: "India (Remote)",
       desc: "Ex Cofounder, Startup. Gained experience in team building, product ideation, and early-stage company operations.",
     },
   ],
